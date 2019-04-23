@@ -1,6 +1,6 @@
 {
-  "name": "jsdom",
-  "version": "15.0.0",
+  "name": "@vizorvr/jsdom",
+  "version": "15.0.200",
   "description": "A JavaScript implementation of many web standards",
   "keywords": [
     "dom",
@@ -23,6 +23,7 @@
     "acorn": "^6.0.4",
     "acorn-globals": "^4.3.0",
     "array-equal": "^1.0.0",
+    "canvas": "^2.3.1",
     "cssom": "^0.3.4",
     "cssstyle": "^1.1.1",
     "data-urls": "^1.1.0",
